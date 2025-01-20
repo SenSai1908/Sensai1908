@@ -47,7 +47,7 @@ Hi there! I’m Sai Shibamani Nayak, a 3rd-year B.Tech student passionate about 
 - *Description:* Developed a functional app for seamless online salon bookings and a companion app for merchants.  
 - *Key Achievements:* Enabled streamlined user experiences for both customers and merchants.  
 
-### 📚 Library Management System [Python, MySQL]  
+### 📚 Library Management System [Python, MySQL, Figma]  
 - *Description:* Built a system for ISBN-based book tracking, enhancing library management with a user-friendly interface.  
 - *Key Achievements:* Automated inventory management and improved librarian productivity.  
 
